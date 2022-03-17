@@ -1,7 +1,2 @@
 123
-<<<<<<< HEAD
-liyang 123
-zhuxian123
-=======
 liyang 123456
->>>>>>> liyang
